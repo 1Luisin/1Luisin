@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo na faculdade FIVJ;
 - 🌱 Tenho como atual foco a linguagem c# e fundamentos do desenvolvimento web;
-- 📫 Como me contatar: loyalsz. 
+- 📫 Como me contatar: loyalsz. (discord)
 - ⚡ Fun fact: Amo o cinnamoroll.
 
 <div style="display: inline_block"><br>
