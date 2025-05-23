@@ -13,7 +13,7 @@
   <img align="right" alt="Cinna" height="90" width="90" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif">
 </div>
 
-##GitHub Status 
+## GitHub statistics! 
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=1Luisin&theme=transparent&show_icons=true&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&count_private=true" height="150">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Luisin&theme=transparent&show_icons=true&hide_border=false&layout=compact&bg_color=000&title_color=FFF&text_color=FFF&border_radius=10&langs_count=6" alt="Linguagens mais usadas" height="150">
