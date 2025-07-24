@@ -10,7 +10,7 @@
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luis-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Cinna" height="70" width="70" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif">
+  <img align="right" alt="Cinna" height="80" width="80" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif">
 </div>
 
 ## GitHub statistics! 
