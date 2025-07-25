@@ -18,8 +18,8 @@
 
 ## GitHub statistics! 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=1Luisin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="100">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Luisin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="100">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Luisin&theme=tokyonight&hide_border=false" height="100">
+    <img src="https://github-readme-stats.vercel.app/api?username=1Luisin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="120">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Luisin&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" height="120">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Luisin&theme=tokyonight&hide_border=false" height="120">
 </div>
 
