@@ -1,7 +1,7 @@
 ## Olá! Bem vindo ao meu perfil. :) 
 
 - 🔭 Atualmente estudo na FIVJ;
-- 🌱 Tenho como foco atual C#, SQL e fundamentos do desenvolvimento Web;
+- 🌱 Tenho como foco atual C#, Java, SQL e Desenvolvimento Web;
 - 📫 Como me contatar: loyalsz. (discord)
 - ⚡ Fun fact: Amo o cinnamoroll.
 
