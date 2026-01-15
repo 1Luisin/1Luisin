@@ -16,6 +16,8 @@
   <img align="center" alt="icon-npm" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Npm-Dark.svg">
   <img align="center" alt="icon-mysql" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="icon-next.js" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Dark.svg">
+
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">  
   <img align="right" alt="Cinna" height="80" width="80" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif">
   
 </div>
