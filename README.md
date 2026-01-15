@@ -21,7 +21,6 @@
   <img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="left" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">  
   <img align="left" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white">
-  <img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white>">
   <img align="right" alt="Cinna" height="80" width="80" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif">
 </div>
   
