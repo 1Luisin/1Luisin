@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudo na FIVJ;
 - 🌱 Tenho como foco atual C#, Java, SQL e Desenvolvimento Web;
-- 📫 Como me contatar: loyalsz. (discord)
+- 📫 Como me contatar: https://www.linkedin.com/in/luisguilhermesantos/
 - 🍓 Fun fact: Amo o cinnamoroll.
 
 <div style="display: inline_block"><br>
